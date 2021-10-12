@@ -1,0 +1,7 @@
+com\java\assignment\bean\Unicorn.class
+com\java\assignment\Assaignment.class
+com\java\assignment\bean\IdentifiableMark.class
+com\java\assignment\controller\UnicornController.class
+com\java\assignment\repository\Repository.class
+com\java\assignment\configuration\SwaggerConfiguration.class
+com\java\assignment\serviceimpl\UnicornServiceImpl.class
